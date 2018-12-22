@@ -1,0 +1,85 @@
+Initialize engine version: 5.4.2f2 (b7e030c65c9b)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 10.1]
+    Renderer: Intel(R) HD Graphics (ID=0x102)
+    Vendor:   Intel
+    VRAM:     848 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\GameProjects\amrmatha\beta_1_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\GameProjects\amrmatha\beta_1_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\GameProjects\amrmatha\beta_1_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\GameProjects\amrmatha\beta_1_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\GameProjects\amrmatha\beta_1_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading E:\GameProjects\amrmatha\beta_1_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: E:\GameProjects\amrmatha\beta_1_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\GameProjects\amrmatha\beta_1_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: E:\GameProjects\amrmatha\beta_1_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading E:\GameProjects\amrmatha\beta_1_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.173 seconds
+Platform assembly: E:\GameProjects\amrmatha\beta_1_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: E:\GameProjects\amrmatha\beta_1_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.967720 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 1a88 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.753022 ms
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 324.
+Total: 1.266347 ms (FindLiveObjects: 0.018208 ms CreateObjectMapping: 0.020857 ms MarkObjects: 0.126138 ms  DeleteObjects: 1.100811 ms)
+
+Passed
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Passed
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Passed
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Passed
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Passed
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Passed
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Passed
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Passed
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Passed
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Passed
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Passed
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.538321 ms
+
+Unloading 39 unused Assets to reduce memory usage. Loaded Objects now: 218.
+Total: 0.760470 ms (FindLiveObjects: 0.012580 ms CreateObjectMapping: 0.013904 ms MarkObjects: 0.157258 ms  DeleteObjects: 0.576063 ms)
+

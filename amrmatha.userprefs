@@ -1,0 +1,21 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\MenuScript.cs">
+    <Files>
+      <File FileName="Assets\scripts\PlayerMoveForward.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\NextBlock.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\GameManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\PlayerController.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\DestroyByContact.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\GameController.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\DestroyByTime.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\DestroyByBoundary.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\DestroyByDeyal.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\MenuScript.cs" Line="15" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
